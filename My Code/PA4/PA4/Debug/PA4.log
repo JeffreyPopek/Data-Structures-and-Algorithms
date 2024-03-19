@@ -1,0 +1,8 @@
+﻿  functions.cpp
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA4\PA4\functions.cpp(46,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA4\PA4\functions.cpp(76,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA4\PA4\functions.cpp(210,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA4\PA4\functions.cpp(231,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA4\PA4\functions.cpp(266,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA4\PA4\functions.cpp(49): warning C4715: 'calculate': not all control paths return a value
+  PA4.vcxproj -> C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA4\Debug\PA4.exe

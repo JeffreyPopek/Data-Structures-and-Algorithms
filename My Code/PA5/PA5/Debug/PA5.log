@@ -1,0 +1,2 @@
+﻿  PA5.cpp
+C:\Users\jeffr\source\repos\PA5\PA5\doublyLinkedList.h(302): error C4716: 'DoublyLinkedList<int>::isExist': must return a value

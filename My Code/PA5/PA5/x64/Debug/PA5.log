@@ -1,0 +1,21 @@
+﻿  PA5.cpp
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA5\PA5\doublyLinkedList.h(503,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA5\PA5\doublyLinkedList.h(458): message : while compiling class template member function 'bool DoublyLinkedList<int>::isExistBinary(T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA5\PA5\PA5.cpp(65): message : see reference to function template instantiation 'bool DoublyLinkedList<int>::isExistBinary(T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA5\PA5\PA5.cpp(33): message : see reference to class template instantiation 'DoublyLinkedList<int>' being compiled
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA5\PA5\doublyLinkedList.h(508,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA5\PA5\doublyLinkedList.h(621,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA5\PA5\PA5.cpp(36): message : see reference to function template instantiation 'void generateList<int>(T [],int)' being compiled
+          with
+          [
+              T=int
+          ]
+  PA5.vcxproj -> C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\PA5\x64\Debug\PA5.exe

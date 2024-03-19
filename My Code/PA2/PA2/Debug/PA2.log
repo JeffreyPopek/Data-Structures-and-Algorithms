@@ -1,0 +1,3 @@
+﻿  sortingFunctions.cpp
+C:\Users\jeffr\source\repos\PA2\PA2\sortingFunctions.cpp(182,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PA2.vcxproj -> C:\Users\jeffr\source\repos\PA2\Debug\PA2.exe

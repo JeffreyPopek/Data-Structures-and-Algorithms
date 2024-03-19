@@ -1,0 +1,5 @@
+﻿  Final.cpp
+C:\Users\jeffr\source\repos\Final Project\Final Project\Functions.h(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jeffr\source\repos\Final Project\Final Project\Functions.h(106,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jeffr\source\repos\Final Project\Final Project\Functions.h(176,20): warning C4018: '<': signed/unsigned mismatch
+  Final Project.vcxproj -> C:\Users\jeffr\source\repos\Final Project\Debug\Final Project.exe

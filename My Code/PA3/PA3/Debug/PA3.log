@@ -1,0 +1,8 @@
+﻿  PA3.cpp
+C:\Users\jeffr\source\repos\PA3\PA3\functions.h(118,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jeffr\source\repos\PA3\PA3\PA3.cpp(69): message : see reference to function template instantiation 'void shuffleList<int>(T [],int)' being compiled
+          with
+          [
+              T=int
+          ]
+  PA3.vcxproj -> C:\Users\jeffr\source\repos\PA3\Debug\PA3.exe

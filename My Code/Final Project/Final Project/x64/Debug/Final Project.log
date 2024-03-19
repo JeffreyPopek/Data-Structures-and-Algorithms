@@ -1,0 +1,3 @@
+﻿  Final.cpp
+C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\Final Project\Final Project\Functions.h(148,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Final Project.vcxproj -> C:\Users\jeffr\source\repos\Data Structures and Algorithms\My Code\Final Project\x64\Debug\Final Project.exe

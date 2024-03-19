@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PA2-part3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PA2.cpp
+C:\Users\jeffr\source\repos\PA2-part3\PA2-part3\sortingFunctions.h(35,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jeffr\source\repos\PA2-part3\PA2-part3\PA2.cpp(47): message : see reference to function template instantiation 'void fillList<int>(T [],long)' being compiled
+          with
+          [
+              T=int
+          ]
+  timerSystem.cpp
+  Generating Code...
+  PA2-part3.vcxproj -> C:\Users\jeffr\source\repos\PA2-part3\Debug\PA2-part4.exe
